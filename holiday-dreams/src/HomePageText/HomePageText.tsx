@@ -1,4 +1,3 @@
-
 const HomePageText = ():JSX.Element => {
 
     return(
